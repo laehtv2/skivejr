@@ -5,7 +5,7 @@ import datetime
 import time
 
 # Liste over lande, vi vil hente fra (navnet skal matche URL-strukturen på skisport.dk)
-lande = ['italien', 'ostrig', 'frankrig', 'norge', 'sverige']
+lande = ['italien', 'oestrig', 'frankrig', 'norge', 'sverige']
 
 # Filnavn til output
 output_file = 'snedybder.csv'
