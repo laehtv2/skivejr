@@ -25,7 +25,7 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run scraping script
-      run: python scrape_snow.py
+      run: python hent_snedybder.py
 
     - name: Commit and Push changes
       run: |
