@@ -6,6 +6,9 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch: # Gør at du kan køre den manuelt også
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
