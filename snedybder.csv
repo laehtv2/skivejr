@@ -1,106 +1,171 @@
 Dato,Land,Destination,Dal (cm),Top (cm)
-2026-01-30,italien,Alagna,30,60
-2026-01-30,italien,Alba,10,50
-2026-01-30,italien,Alleghe,20,70
-2026-01-30,italien,Andalo,20,40
-2026-01-30,italien,Bardonecchia,30,120
-2026-01-30,italien,Campitello,50,90
-2026-01-30,italien,Canazei,50,90
-2026-01-30,italien,Cervinia,60,150
-2026-01-30,italien,Champoluc,50,85
-2026-01-30,italien,Courmayeur,30,90
-2026-01-30,italien,Folgaria,30,60
-2026-01-30,italien,Folgarida,35,80
-2026-01-30,italien,Gressoney,30,60
-2026-01-30,italien,Kronplatz,10,50
-2026-01-30,italien,La Thuile,50,160
-2026-01-30,italien,Limone Piemonte,130,210
-2026-01-30,italien,Livigno,45,65
-2026-01-30,italien,Macugnaga,10,20
-2026-01-30,italien,Madonna di Campiglio,31,52
-2026-01-30,italien,Marilleva,55,150
-2026-01-30,italien,Montecampione,40,80
-2026-01-30,italien,Passo Tonale,50,150
-2026-01-30,italien,Predazzo,80,110
-2026-01-30,italien,Sauze d´Oulx,20,60
-2026-01-30,italien,Sestriere,30,60
-2026-01-30,italien,Val Gardena,20,50
-2026-01-30,italien,Valgrisenche,40,50
-2026-01-30,frankrig,Alpe d´Huez,125,250
-2026-01-30,frankrig,Auron,110,160
-2026-01-30,frankrig,Avoriaz,65,160
-2026-01-30,frankrig,Chamonix,105,200
-2026-01-30,frankrig,Champagny en Vanoise,48,184
-2026-01-30,frankrig,Chamrousse,100,176
-2026-01-30,frankrig,Courchevel,85,124
-2026-01-30,frankrig,Flaine,62,245
-2026-01-30,frankrig,Isola 2000,135,170
-2026-01-30,frankrig,La Clusaz,60,200
-2026-01-30,frankrig,La Plagne,48,184
-2026-01-30,frankrig,La Rosière,122,210
-2026-01-30,frankrig,La Tania,115,165
-2026-01-30,frankrig,Le Corbier,76,120
-2026-01-30,frankrig,Les Arcs,-,101
-2026-01-30,frankrig,Les Coches - Montchavin,48,184
-2026-01-30,frankrig,Les Contamines,71,71
-2026-01-30,frankrig,Les Deux Alpes,40,172
-2026-01-30,frankrig,Les Menuires,35,165
-2026-01-30,frankrig,Les Sept Laux,85,150
-2026-01-30,frankrig,Megève,50,160
-2026-01-30,frankrig,Meribel,62,173
-2026-01-30,frankrig,Montgenèvre,100,140
-2026-01-30,frankrig,Morzine,10,200
-2026-01-30,frankrig,Risoul,50,70
-2026-01-30,frankrig,Serre Chevalier,53,115
-2026-01-30,frankrig,St. Francois Longchamp,70,240
-2026-01-30,frankrig,St. Martin de Belleville,35,165
-2026-01-30,frankrig,Tignes,94,160
-2026-01-30,frankrig,Val d´Isère,83,151
-2026-01-30,frankrig,Val Thorens,115,165
-2026-01-30,frankrig,Valfréjus,50,155
-2026-01-30,frankrig,Valloire,30,110
-2026-01-30,frankrig,Valmeinier,30,110
-2026-01-30,frankrig,Valmorel,60,125
-2026-01-30,frankrig,Vars,90,137
-2026-01-30,norge,Beitostølen,66,66
-2026-01-30,norge,Bjorli,80,80
-2026-01-30,norge,Gausta,110,110
-2026-01-30,norge,Gautefall,50,50
-2026-01-30,norge,Geilo,90,90
-2026-01-30,norge,Gålå / Wadahl,60,60
-2026-01-30,norge,Hafjell,80,80
-2026-01-30,norge,Hemsedal,69,69
-2026-01-30,norge,Hovden,30,35
-2026-01-30,norge,Kongsberg,30,40
-2026-01-30,norge,Kvitfjell,70,70
-2026-01-30,norge,"Myrkdalen Fjellandsby, Voss",65,95
-2026-01-30,norge,Nordseter,90,90
-2026-01-30,norge,Norefjell,50,50
-2026-01-30,norge,Oppdal,80,80
-2026-01-30,norge,Rauland,80,80
-2026-01-30,norge,Sjusøen,90,90
-2026-01-30,norge,Skeikampen / Austlid,70,70
-2026-01-30,norge,Trysil,40,40
-2026-01-30,norge,Tyin Filefjell,57,57
-2026-01-30,norge,Voss,65,95
-2026-01-30,norge,Vrådal,40,70
-2026-01-30,sverige,Bjursås,70,70
-2026-01-30,sverige,Branäs,100,100
-2026-01-30,sverige,Funäsdalen,60,80
-2026-01-30,sverige,Hovfjället,45,50
-2026-01-30,sverige,Hundfjället,25,47
-2026-01-30,sverige,Högfjället,20,47
-2026-01-30,sverige,Idre Fjäll,75,75
-2026-01-30,sverige,Isaberg,50,50
-2026-01-30,sverige,Kläppen,102,102
-2026-01-30,sverige,Lindvallen,20,47
-2026-01-30,sverige,Lofsdalen,80,80
-2026-01-30,sverige,Orsa Grönklitt,85,89
-2026-01-30,sverige,Stöten,45,40
-2026-01-30,sverige,Säfsen,30,39
-2026-01-30,sverige,Sälen,25,47
-2026-01-30,sverige,Tandådalen,25,47
-2026-01-30,sverige,Tänndalen,70,70
-2026-01-30,sverige,Ulricehamn,77,77
-2026-01-30,sverige,Vemdalen,48,60
-2026-01-30,sverige,Åre,40,53
+2026-01-31,italien,Alagna,30,60
+2026-01-31,italien,Alba,10,50
+2026-01-31,italien,Alleghe,20,70
+2026-01-31,italien,Andalo,20,40
+2026-01-31,italien,Bardonecchia,30,120
+2026-01-31,italien,Campitello,50,90
+2026-01-31,italien,Canazei,50,90
+2026-01-31,italien,Cervinia,60,150
+2026-01-31,italien,Champoluc,50,85
+2026-01-31,italien,Courmayeur,30,90
+2026-01-31,italien,Folgaria,40,80
+2026-01-31,italien,Folgarida,35,80
+2026-01-31,italien,Gressoney,30,60
+2026-01-31,italien,Kronplatz,15,60
+2026-01-31,italien,La Thuile,50,160
+2026-01-31,italien,Limone Piemonte,110,200
+2026-01-31,italien,Livigno,56,78
+2026-01-31,italien,Macugnaga,10,20
+2026-01-31,italien,Madonna di Campiglio,31,52
+2026-01-31,italien,Marilleva,50,130
+2026-01-31,italien,Montecampione,40,80
+2026-01-31,italien,Passo Tonale,50,150
+2026-01-31,italien,Predazzo,80,110
+2026-01-31,italien,Sauze d´Oulx,20,60
+2026-01-31,italien,Sestriere,30,60
+2026-01-31,italien,Val Gardena,60,90
+2026-01-31,italien,Valgrisenche,40,50
+2026-01-31,oestrig,Abtenau,10,20
+2026-01-31,oestrig,Alpbachtal,45,90
+2026-01-31,oestrig,Altenmarkt / Radstadt,40,50
+2026-01-31,oestrig,Annaberg,40,60
+2026-01-31,oestrig,Axamer Lizum,70,90
+2026-01-31,oestrig,Bad Gastein,30,60
+2026-01-31,oestrig,Bad Hofgastein,30,60
+2026-01-31,oestrig,Bad Kleinkirchheim,60,80
+2026-01-31,oestrig,Bregenzerwald,50,70
+2026-01-31,oestrig,Brixen im Thale,65,95
+2026-01-31,oestrig,Ellmau,25,95
+2026-01-31,oestrig,Fieberbrunn,70,70
+2026-01-31,oestrig,Filzmoos,75,80
+2026-01-31,oestrig,Flachau,60,140
+2026-01-31,oestrig,Fügen,30,60
+2026-01-31,oestrig,Gerlos,60,80
+2026-01-31,oestrig,Gosau,80,110
+2026-01-31,oestrig,Grossarl,50,85
+2026-01-31,oestrig,Göstling,30,50
+2026-01-31,oestrig,Haus im Ennstal,30,60
+2026-01-31,oestrig,Hopfgarten,65,95
+2026-01-31,oestrig,Ischgl,20,60
+2026-01-31,oestrig,Kappl,35,85
+2026-01-31,oestrig,Kaprun / Kitzsteinhorn,70,90
+2026-01-31,oestrig,Kitzbühel / Kirchberg,61,81
+2026-01-31,oestrig,Kleinwalsertal,30,55
+2026-01-31,oestrig,Kühtai,76,93
+2026-01-31,oestrig,Königsleiten,30,90
+2026-01-31,oestrig,Lech & Zürs,65,145
+2026-01-31,oestrig,Leogang,50,70
+2026-01-31,oestrig,Lienz,20,50
+2026-01-31,oestrig,Lofer,50,80
+2026-01-31,oestrig,Maria Alm,15,30
+2026-01-31,oestrig,Mauterndorf,50,70
+2026-01-31,oestrig,Mayrhofen,5,85
+2026-01-31,oestrig,Mühlbach,25,75
+2026-01-31,oestrig,Nauders,25,85
+2026-01-31,oestrig,Neukirchen am Grossvenediger,12,55
+2026-01-31,oestrig,Obergurgl / Hochgurgl,58,88
+2026-01-31,oestrig,Oberndorf,50,70
+2026-01-31,oestrig,Obertauern,50,120
+2026-01-31,oestrig,Pitztal,55,175
+2026-01-31,oestrig,Rauris,60,100
+2026-01-31,oestrig,Russbach,80,110
+2026-01-31,oestrig,Saalbach,70,105
+2026-01-31,oestrig,Scheffau,25,95
+2026-01-31,oestrig,Schladming,90,110
+2026-01-31,oestrig,Seefeld,25,47
+2026-01-31,oestrig,Serfaus-Fiss-Ladis,18,70
+2026-01-31,oestrig,St. Anton,55,150
+2026-01-31,oestrig,St. Johann in Pongau,60,140
+2026-01-31,oestrig,St. Johann in Tirol,50,70
+2026-01-31,oestrig,Stubaital,40,140
+2026-01-31,oestrig,Sölden,15,80
+2026-01-31,oestrig,Söll,25,95
+2026-01-31,oestrig,Tauplitz / Bad Mitterndorf,30,90
+2026-01-31,oestrig,Wagrain,60,140
+2026-01-31,oestrig,Werfenweng,30,50
+2026-01-31,oestrig,Westendorf,60,90
+2026-01-31,oestrig,Wildschönau,45,90
+2026-01-31,oestrig,Wörgl,65,95
+2026-01-31,oestrig,Zauchensee,90,95
+2026-01-31,oestrig,Zell am See,15,85
+2026-01-31,oestrig,Zell am Ziller,30,55
+2026-01-31,oestrig,Zillertal,60,80
+2026-01-31,frankrig,Alpe d´Huez,126,270
+2026-01-31,frankrig,Auron,110,160
+2026-01-31,frankrig,Avoriaz,65,160
+2026-01-31,frankrig,Chamonix,110,270
+2026-01-31,frankrig,Champagny en Vanoise,48,184
+2026-01-31,frankrig,Chamrousse,100,176
+2026-01-31,frankrig,Courchevel,83,152
+2026-01-31,frankrig,Flaine,72,235
+2026-01-31,frankrig,Isola 2000,135,170
+2026-01-31,frankrig,La Clusaz,72,210
+2026-01-31,frankrig,La Plagne,48,184
+2026-01-31,frankrig,La Rosière,137,175
+2026-01-31,frankrig,La Tania,120,170
+2026-01-31,frankrig,Le Corbier,76,120
+2026-01-31,frankrig,Les Arcs,-,112
+2026-01-31,frankrig,Les Coches - Montchavin,53,191
+2026-01-31,frankrig,Les Contamines,71,71
+2026-01-31,frankrig,Les Deux Alpes,30,200
+2026-01-31,frankrig,Les Menuires,42,170
+2026-01-31,frankrig,Les Sept Laux,85,150
+2026-01-31,frankrig,Megève,50,160
+2026-01-31,frankrig,Meribel,73,178
+2026-01-31,frankrig,Montgenèvre,100,140
+2026-01-31,frankrig,Morzine,10,200
+2026-01-31,frankrig,Risoul,50,70
+2026-01-31,frankrig,Serre Chevalier,90,175
+2026-01-31,frankrig,St. Francois Longchamp,70,240
+2026-01-31,frankrig,St. Martin de Belleville,42,170
+2026-01-31,frankrig,Tignes,99,170
+2026-01-31,frankrig,Val d´Isère,86,158
+2026-01-31,frankrig,Val Thorens,120,170
+2026-01-31,frankrig,Valfréjus,50,155
+2026-01-31,frankrig,Valloire,30,110
+2026-01-31,frankrig,Valmeinier,30,110
+2026-01-31,frankrig,Valmorel,60,125
+2026-01-31,frankrig,Vars,90,137
+2026-01-31,norge,Beitostølen,66,66
+2026-01-31,norge,Bjorli,80,80
+2026-01-31,norge,Gausta,110,110
+2026-01-31,norge,Gautefall,55,55
+2026-01-31,norge,Geilo,90,90
+2026-01-31,norge,Gålå / Wadahl,60,60
+2026-01-31,norge,Hafjell,80,80
+2026-01-31,norge,Hemsedal,69,69
+2026-01-31,norge,Hovden,30,35
+2026-01-31,norge,Kongsberg,30,40
+2026-01-31,norge,Kvitfjell,70,70
+2026-01-31,norge,"Myrkdalen Fjellandsby, Voss",65,95
+2026-01-31,norge,Nordseter,90,90
+2026-01-31,norge,Norefjell,50,50
+2026-01-31,norge,Oppdal,80,80
+2026-01-31,norge,Rauland,80,80
+2026-01-31,norge,Sjusøen,90,90
+2026-01-31,norge,Skeikampen / Austlid,70,70
+2026-01-31,norge,Trysil,40,40
+2026-01-31,norge,Tyin Filefjell,57,57
+2026-01-31,norge,Voss,65,95
+2026-01-31,norge,Vrådal,40,70
+2026-01-31,sverige,Bjursås,70,70
+2026-01-31,sverige,Branäs,100,100
+2026-01-31,sverige,Funäsdalen,60,80
+2026-01-31,sverige,Hovfjället,45,50
+2026-01-31,sverige,Hundfjället,25,47
+2026-01-31,sverige,Högfjället,20,47
+2026-01-31,sverige,Idre Fjäll,75,75
+2026-01-31,sverige,Isaberg,70,70
+2026-01-31,sverige,Kläppen,102,102
+2026-01-31,sverige,Lindvallen,20,47
+2026-01-31,sverige,Lofsdalen,80,80
+2026-01-31,sverige,Orsa Grönklitt,85,89
+2026-01-31,sverige,Stöten,45,40
+2026-01-31,sverige,Säfsen,30,39
+2026-01-31,sverige,Sälen,25,47
+2026-01-31,sverige,Tandådalen,25,47
+2026-01-31,sverige,Tänndalen,70,70
+2026-01-31,sverige,Ulricehamn,77,77
+2026-01-31,sverige,Vemdalen,52,60
+2026-01-31,sverige,Åre,40,55
