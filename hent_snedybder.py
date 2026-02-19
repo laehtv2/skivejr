@@ -10,7 +10,7 @@ mine_favoritter = ['Avoriaz', 'Livigno', 'Wagrain', 'Hemsedal', 'Trysil', 'Säle
 
 # Filnavne
 output_file_all = 'snedybder.csv'
-output_file_fav = 'valgte_destinationer.csv'
+output_file_fav = 'snedybder_udvalgte.csv'
 
 # Vi forbereder lister med data
 csv_all = [['Dato', 'Land', 'Destination', 'Dal (cm)', 'Top (cm)']]
