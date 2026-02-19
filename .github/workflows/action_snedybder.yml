@@ -34,6 +34,7 @@ jobs:
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
-        git add snedybder.csv
-        # Commit kun hvis der er ændringer
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Opdaterede snedybder" && git push)
+        # Vi bruger *.csv for at fange både den store fil og favorit-filen
+        git add *.csv
+        # Commit kun hvis der er ændringer i en af de to filer
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Opdaterede snedybder og favoritter" && git push)
